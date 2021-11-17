@@ -1,0 +1,11 @@
+{
+ "name": "punkmonster",
+ "website": "https://www.punkmonster.io/",
+ "description": "An universe of cyberpunk based on blockchain.",
+ "explorer": "https://bscscan.com/token/0x6138B27B50E27e34542B309Da8f19B8Bdf0b5A94",
+ "type": "BEP20",
+ "symbol": "TMG",
+ "decimals": 6,
+ "status": "active",
+ "id": "0x6138B27B50E27e34542B309Da8f19B8Bdf0b5A94"
+} 
